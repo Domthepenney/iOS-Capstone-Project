@@ -57,9 +57,7 @@ SnapHabit is a visual habit tracker that holds users accountable through photogr
 * **Camera Screen** -> Confirm Photo -> Returns to **Home** (Updated state)
 
 ## Wireframes
-[Add your hand-sketched wireframes here. Take a picture of your paper sketches and upload them to the repo.]
-
-<img src="![IMG_9779](https://github.com/user-attachments/assets/c6170acd-e60d-42a8-8d91-24e6122cec86)" width=600>
+![IMG_9779](https://github.com/user-attachments/assets/f79e5bea-f442-41c2-b9c0-c63c657da216)
 
 
 ### [BONUS] Digital Wireframes & Mockups
