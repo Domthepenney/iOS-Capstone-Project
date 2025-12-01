@@ -1,5 +1,5 @@
 # SnapHabit
-
+Dominique Penney Z23639823
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
