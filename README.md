@@ -22,10 +22,10 @@ SnapHabit is a visual habit tracker that holds users accountable through photogr
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-* [ ] User can create a new habit (e.g., "Drink Water", "Go for a Run").
-* [ ] User can view a dashboard of their daily habits.
-* [ ] User can tap a habit to open the **Camera**.
-* [ ] User can take a photo to "complete" the habit for the day.
+* [X] User can create a new habit (e.g., "Drink Water", "Go for a Run").
+* [X] User can view a dashboard of their daily habits.
+* [X] User can tap a habit to open the **Camera**.
+* [X] User can take a photo to "complete" the habit for the day.
 * [ ] User can view a "Streak" count for each habit.
 
 **Optional Nice-to-have Stories**
