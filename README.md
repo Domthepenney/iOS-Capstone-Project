@@ -67,7 +67,3 @@ Here's a walkthrough of implemented user stories:
 ## Wireframes
 ![IMG_9779](https://github.com/user-attachments/assets/f79e5bea-f442-41c2-b9c0-c63c657da216)
 
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
