@@ -56,6 +56,14 @@ SnapHabit is a visual habit tracker that holds users accountable through photogr
 * **Home** -> Click Habit -> **Camera Screen**
 * **Camera Screen** -> Confirm Photo -> Returns to **Home** (Updated state)
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<a href="https://youtube.com/shorts/2Zsko9hk9gY" target="_blank">
+  <img src="https://img.youtube.com/vi/2Zsko9hk9gY/0.jpg" alt="Watch the video" width="240" height="427" border="10" />
+</a>
+
 ## Wireframes
 ![IMG_9779](https://github.com/user-attachments/assets/f79e5bea-f442-41c2-b9c0-c63c657da216)
 
